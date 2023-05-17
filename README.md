@@ -1,1 +1,0 @@
-# mohamadalzhori.github.io
