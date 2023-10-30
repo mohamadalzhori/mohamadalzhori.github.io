@@ -42,6 +42,10 @@ a {
 		color: var(--the-color);
 }
 
+#space{
+	color: black;
+}
+
 .cursor {
     
     animation: blink 1s infinite step-start;
