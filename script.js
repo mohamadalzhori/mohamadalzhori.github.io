@@ -7,7 +7,7 @@ var Typer = {
 
           'I am a student at the Lebanese American University, pursuing a Bachelor of Engineering in Electrical Engineering, with an expected graduation date of May 2025.\n\n'+
           
-          'My passion for electrical engineering sparked my journey, and I havee honed my skills in programming and software development. \n\n' +
+          'My passion for electrical engineering sparked my journey, and I have honed my skills in programming and software development. \n\n' +
           
           'I am driven by the desire to consistently improve and have a meaningful impact in the world.\n\n' + 
           
@@ -19,7 +19,17 @@ var Typer = {
           
           'Have a look at my codes on <a href="https://github.com/mohamadalzhori">GitHub</a>. \n\n' + 
 
-          '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span>'
+          '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> cat Tech_Skills.txt\n\n'+
+          
+          'Skill Tree \n├── C++\n├── Java\n├── Frontend \n│   ├── React\n├── Backend \n│   ├── Node.js\n├── DB\n│  ├── SQL\n├── DSA\n├── CLI\n│   ├── Bash\n│   ├── Linux\n│   ├── Git\n├── Extras\n│   ├── Touch Typing\n\n' +
+          
+          '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> cat Experience.txt\n\n'+
+          '<span id="space">---</span>┌───── Personal Project: Arduino-based Temp and Hum Controller ───────┐\n <span id="space">---</span>│<span id="space">---------------------------------------------------------------------</span>│\n Jul 2019 <span id="space">---</span> Mar 2023 <span id="space">--------------------------</span> May 2023 <span id="space">-----------</span> Present \n' + 
+          '<span id="space">----------------</span>│<span id="space">-----------------------------------</span>│                         \n <span id="space">----------------</span>└─── Embedded Systems Internship ───┘\n\n'+
+          '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> '
+          
+          
+          
           ,
 
     index: 0,
