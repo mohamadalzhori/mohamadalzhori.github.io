@@ -24,7 +24,7 @@ var Typer = {
           'Skill Tree \n├── C++\n├── Java\n├── Frontend \n│   ├── React\n├── Backend \n│   ├── Node.js\n├── DB\n│  ├── SQL\n├── DSA\n├── CLI\n│   ├── Bash\n│   ├── Linux\n│   ├── Git\n├── Extras\n│   ├── Touch Typing\n\n' +
           
           '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> cat Experience.txt\n\n'+
-          '<span id="space">---</span>┌───── Personal Project: Arduino-based Temp and Hum Controller ───────┐\n <span id="space">---</span>│<span id="space">---------------------------------------------------------------------</span>│\n Jul 2019 <span id="space">---</span> Mar 2023 <span id="space">--------------------------</span> May 2023 <span id="space">-----------</span> Present \n' + 
+          '<span id="space">---</span>┌───── Personal Project: Arduino-based Temp and Hum Controller ───────┐\n <span id="space">---</span>│<span id="space">---------------------------------------------------------------------</span>│\n <span id="a">Jul 2019</span> <span id="space">---</span> <span id="a">Mar 2023</span> <span id="space">--------------------------</span> <span id="a">May 2023</span> <span id="space">-----------</span> <span id="a">Present</span> \n' + 
           '<span id="space">----------------</span>│<span id="space">-----------------------------------</span>│                         \n <span id="space">----------------</span>└─── Embedded Systems Internship ───┘\n\n'+
           '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> '
           
