@@ -37,13 +37,7 @@ var Typer = {
           '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> '
         
         
-        //   ┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
-        //   │ Project 3: IOT-based Home Automation Solution                                                           │
-        //   │ Mar 2023 – May 2023                                                                                  │
-        //   │ Skills: [C++] [Arduino] [Blynk Software]                                                              │
-        //   └─────────────────────────────────────────────────────────────────────────────────────────────────────┘'
-          
-          
+       
           ,
 
     index: 0,
@@ -70,3 +64,9 @@ document.onkeydown = function (e) {
         Typer.typeText();
     }
 };
+
+// A click event listener to skip the animation on mobile
+document.addEventListener("click", function () {
+    Typer.index = Typer.text.length;
+    Typer.typeText();
+});
