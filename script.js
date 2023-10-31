@@ -26,8 +26,22 @@ var Typer = {
           '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> cat Experience.txt\n\n'+
           '<span id="space">---</span>┌───── Personal Project: Arduino-based Temp and Hum Controller ───────┐\n <span id="space">---</span>│<span id="space">---------------------------------------------------------------------</span>│\n <span id="a">Jul 2019</span> <span id="space">---</span> <span id="a">Mar 2023</span> <span id="space">--------------------------</span> <span id="a">May 2023</span> <span id="space">-----------</span> <span id="a">Present</span> \n' + 
           '<span id="space">----------------</span>│<span id="space">-----------------------------------</span>│                         \n <span id="space">----------------</span>└─── Embedded Systems Internship ───┘\n\n'+
+          '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> cat Projects.txt\n\n'+
+          '┌────────────────────────────────────────────────────────────────────┐\n│ Project 1: <span id="a">Learning Management System for an Elementary School NGO </span>│\n│ Aug 2023 – Oct 2023 <span id="space">----------------------------------------------</span>  │\n│ Skills: [React] [Node.js] [SQL] [Git] <span id="space">----------------------------</span> │\n└────────────────────────────────────────────────────────────────────┘\n'+
+        
+          '┌────────────────────────────────────────────────────────────────────┐\n│ Project 2: <span id="a">Calendar Widget for Qtile Window Manager <span id="space">--------------</span> </span>│\n│ Aug 2023 – Sept 2023  <span id="space">---------------------------------------------</span>  │\n│ Skills: [Python] [Linux] [Qtile] [Google Calendar API] <span id="space">-----------</span> │\n└────────────────────────────────────────────────────────────────────┘\n'+
+        
+
+          '┌────────────────────────────────────────────────────────────────────┐\n│ Project 3: <span id="a">IOT-based Home Automation Solution <span id="space">--------------------</span> </span>│\n│ Mar 2023 – May 2023  <span id="space">----------------------------------------------</span>  │\n│ Skills: [C++] [Arduino] [Blynk Software]  <span id="space">-------------------------</span> │\n└────────────────────────────────────────────────────────────────────┘\n'+
+        
           '<span id="a">zhori@eniac</span>:<span id="b">~</span><span id="c">$</span> '
-          
+        
+        
+        //   ┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
+        //   │ Project 3: IOT-based Home Automation Solution                                                           │
+        //   │ Mar 2023 – May 2023                                                                                  │
+        //   │ Skills: [C++] [Arduino] [Blynk Software]                                                              │
+        //   └─────────────────────────────────────────────────────────────────────────────────────────────────────┘'
           
           
           ,
