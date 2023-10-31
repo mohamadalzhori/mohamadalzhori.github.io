@@ -43,7 +43,8 @@ a {
 }
 
 #space{
-	color: black;
+	/* color: black; */
+	visibility: hidden;
 }
 
 .cursor {
